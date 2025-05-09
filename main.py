@@ -7,7 +7,6 @@ app = Flask(__name__)
 def ola_mundo():
     return "hello word"
 
-if __name__ == "__main__":
-    app.run(debug=True)
+
 
 
